@@ -11,14 +11,14 @@ My name is Luz and I am studyign HR Management and Business Analytics. I love re
 
 ## _Last_
 
-# Main
+### Main
 
 This is where the main points would be 
 
-# Middle
+### Middle
 
 This is where the middle of an argument would go 
 
-# Last
+### Last
 
 This is where the end of an assignment would go
